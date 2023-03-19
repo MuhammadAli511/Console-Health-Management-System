@@ -1,0 +1,8 @@
+Patient ID,Patient Name,Weight,Avg. Weight,Visits
+1007,Ali Ahmed,51.5,51.5,1
+1004,Abeer Hassan,80.1,80.1,1
+1003,Sameer Bander,25.5,28.5,2
+1002,Ibrahim Majed,18.6,18.2,2
+1006,Muhammad Ali,81.2,81.2,1
+1005,Taher Mohammed,86.7,88.7,2
+1001,Hana Farooq,11.15,10.475,4
